@@ -16,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44399#StoneheartA-Romance
 gutenberg_issued: '2013-12-09'
 gutenberg_type: Text
 identifiers:
